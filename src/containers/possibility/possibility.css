@@ -1,0 +1,6 @@
+.product-info ul li span.product-desc {
+    font-size: 23px;
+    font-weight: 700;
+    color: var(--primary-color);
+    text-transform: uppercase;
+}
